@@ -3,9 +3,6 @@
 ## 🌱 I’m currently learning ...
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jml)](https://solved.ac/jml)
-
 <h2>📫 How to reach me: ...</h2>
 
 email : <lj845854@gmail.com>
