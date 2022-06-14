@@ -17,15 +17,15 @@ email : <lj845854@gmail.com>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin-l&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin-l&layout=compact)](https://github.com/jeongmin-l/github-readme-stats) -->
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jeongmin-l&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin-l&hide_border=true&layout=compact&hide=Python" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<table>
+  <tr>
+  <td valign="top" width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=jeongmin-l&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /></td>
+  <td valign="top" width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin-l&hide_border=true&layout=compact&hide=Python" align="left" style="width: 100%" /></td>
+ </tr>
+  <tr>
+  <td valign="top" width="50%"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=jml" align="left" style="width: 100%"/></td>  
+  </tr>
+</table>  
 
 <br/> 
 
@@ -35,6 +35,7 @@ email : <lj845854@gmail.com>
 
 
 <!--
+https://solved.ac/jml
 **jeongmin-l/jeongmin-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
