@@ -12,7 +12,7 @@ email : <lj845854@gmail.com>
 
 <h2>Github Stats</h2>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpush&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin-l&layout=compact)](https://github.com/jjpush/github-readme-stats) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpush&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjpush&layout=compact)](https://github.com/jjpush/github-readme-stats) -->
 
 <table>
   <tr>
