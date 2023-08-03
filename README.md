@@ -16,8 +16,8 @@ email : <lj845854@gmail.com>
 
 <table>
   <tr>
-  <td valign="top" width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=jjpush&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /></td>
-  <td valign="top" width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjpush&hide_border=true&layout=compact&hide=Python" align="left" style="width: 100%" /></td>
+  <td valign="top" width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=corpiii&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /></td>
+  <td valign="top" width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corpiii&hide_border=true&layout=compact&hide=Python" align="left" style="width: 100%" /></td>
  </tr>
   <tr>
   <td valign="top" width="50%"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=jml" align="left" style="width: 100%"/></td>  
